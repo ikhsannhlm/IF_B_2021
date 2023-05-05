@@ -30,6 +30,7 @@
 | 1217050089 | Muhammad Dwiki Septianto | https://github.com/dwiki2409/PBO.git |
 | 1217050090 | Muhammad Dzikri | https://github.com/Dikito08/PBO.git |
 | 1217050091 | Muhammad Faisal | https://github.com/faisalach/teori_pbo |
+| 1217050093 | Muhammad Fakhri Fakhruddin | https://github.com/Fakhrirudin/tugaspbo.git |
 | 1217050097 | Muhammad Ikhsan Nurhalim | https://github.com/ikhsannhlm/Object_Oriented_Programming |
 | 1217050095 | Muhammad Fauzan Irawan S | https://github.com/muhammadfauzanis/TeoriPBO |
 | 1217050096 | Muhammad gifa algifari | https://github.com/gifaalgifari/Tugas-PBO.git |
