@@ -3,6 +3,7 @@
 
 | Nim | Nama | Link Repo PBO |
 |-----|------|---------------|
+| 1187050040 | Hanggitya Raharjo | https://github.com/HanggityaRaharjo/TugasPBO.git |
 | 1217050052 | Faikar Moch Tajudin | https://github.com/Fr0faive/TugasOOP_Pilar |
 | 1217050054 | Fauzan | https://github.com/ojanaja/Pemrograman_Berbasis_Objek |
 | 1217050056 | Fazar Budiman | https://github.com/FazarBudiman/OOP |
